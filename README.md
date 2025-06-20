@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Desenvolvedor
 - Renan Job de Souza  
-  Estudante de Análise e Desenvolvimento de Sistemas – UNICID
+  Estudante de Análise e Desenvolvimento de Sistemas 
 
 ## 🎯 Objetivo do Sistema
 O sistema **Loja Job** é um software desktop desenvolvido para auxiliar o gerenciamento de uma loja de pequeno porte. Ele permite o controle de clientes, produtos e pedidos, centralizando informações essenciais para o funcionamento do negócio.
